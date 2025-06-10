@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f9468359228e7de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "160c3b565017ede8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55065b013f8a9450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manuale/1 - Premessa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Premessa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d3059589d4a74db",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ecabb1a044435d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9ab046f8827e54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c09bc3c2806c1088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "695dbaecc62bfa8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.51103591918945
+  },
+  "right": {
+    "id": "bd5f54e8fba78af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ea10590e5643fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba4012560fbe87c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manuale/7 - Visualizzazione sul Visore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7 - Visualizzazione sul Visore"
+            }
+          },
+          {
+            "id": "7f6f4c02a05ccc78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "StrutturaDocumentazione.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from StrutturaDocumentazione"
+            }
+          },
+          {
+            "id": "c749a52387a77ca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3157ada353aba572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manuale/4 - Installazione Ambiente di Visualizzazione.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4 - Installazione Ambiente di Visualizzazione"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55065b013f8a9450",
+  "lastOpenFiles": [
+    "Manuale/2 - I Visori VR.md",
+    "Manuale/4 - Installazione Ambiente di Visualizzazione.md",
+    "Manuale/3 - Installazione Ambiente di Sviluppo.md",
+    "Manuale/5 - SimLab Composer.md",
+    "Manuale/6 - Blender.md",
+    "Manuale/1 - Premessa.md",
+    "Manuale/4 - Installazione Ambiente di Visualizzazione .md",
+    "Manuale/4 - Installazione Ambiente di Visualizzazione - Copy.md",
+    "Manuale/Unconfirmed 930373.crdownload",
+    "Immagini/yes.jpg",
+    "Immagini/welome.jpg",
+    "Immagini/steamvr.jpg",
+    "Immagini/steam.jpg",
+    "Immagini/spazio.jpg",
+    "Immagini/run.jpg",
+    "Immagini/play.jpg",
+    "Immagini/message.jpg",
+    "Immagini/login.jpg",
+    "Immagini/code.jpg",
+    "StrutturaDocumentazione.md",
+    "Manuale/7 - Visualizzazione sul Visore.md",
+    "Manuale/2.md",
+    "2-IVisoriVR.md",
+    "2-I.md",
+    "2.md",
+    "Presentazione/1 - Presentazione Lavoro.md",
+    "Presentazione/2 - La Segnaletica.md",
+    "Manuale/3 - Installazione Ambiente di Sviluppo.md~",
+    "Immagini",
+    "Untitled",
+    "Presentazione",
+    "Manuale"
+  ]
+}
